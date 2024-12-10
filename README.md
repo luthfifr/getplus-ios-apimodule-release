@@ -1,6 +1,6 @@
 # GetPlus API Module Repo for Release
 
-This repo is used to hold the podspecs for the release of CommonUI. It's created due to the need of publishing [GetPlus iOSApiModule](https://bitbucket.org/gpitech-getplus/ios-apimodule/src/develop/) as private repo in Cocoapods. The reason to publish as private repo is becuase the codes are propertiary of PT. Global Poin Indonesia and are not meant to be visible publicly.
+This repo is used to hold the podspecs for the release of iOS API Module. It's created due to the need of publishing [GetPlus iOSApiModule](https://bitbucket.org/gpitech-getplus/ios-apimodule/src/develop/) as private repo in Cocoapods. The reason to publish as private repo is becuase the codes are propertiary of PT. Global Poin Indonesia and are not meant to be visible publicly.
 
 ## Directory Structure
 
